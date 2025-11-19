@@ -1,107 +1,102 @@
 <div align="center">
 
-# 🧪 Miyomi Test Account
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&height=60&lines=🧪+Miyomi+Test+Account;🔬+Experimental+Builds+Only;⚡+Learning+%26+Testing;🚧+Unofficial+Projects" alt="Typing SVG" />
 
-![Experimental Banner](https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=120&section=header&text=Miyomi%20Test%20Account&fontSize=40&fontAlign=50&fontAlignY=50&animation=fadeIn&desc=Experimental%20Builds%20•%20Learning%20Projects&descSize=16&descAlign=50&descAlignY=65)
-
-[![Experimental](https://img.shields.io/badge/🔬-Experimental_Only-orange?style=for-the-badge&logo=testcafe&logoColor=white)](https://)
-[![Testing](https://img.shields.io/badge/🧪-Testing_Purposes-yellow?style=for-the-badge&logo=testinglibrary&logoColor=white)](https://)
-[![Unofficial](https://img.shields.io/badge/⚠️-Unofficial_Builds-red?style=for-the-badge&logo=probot&logoColor=white)](https://)
+  <br/>
+  
+  <div align="center" style="display: flex; gap: 15px; justify-content: center; flex-wrap: wrap; margin: 20px 0;">
+    <img alt="Experimental" src="https://img.shields.io/badge/🔬_EXPERIMENTAL-FF6B35?style=flat-square&logo=testcafe&logoColor=white&labelColor=1a1a1a"/>
+    <img alt="Testing" src="https://img.shields.io/badge/🧪_TESTING_ONLY-F7DF1E?style=flat-square&logo=testinglibrary&logoColor=black&labelColor=1a1a1a"/>
+    <img alt="Unofficial" src="https://img.shields.io/badge/⚠️_UNOFFICIAL-FF4444?style=flat-square&logo=probot&logoColor=white&labelColor=1a1a1a"/>
+  </div>
 
 </div>
 
-## 🔍 What This Account Is For
+## 📋 About This Account
 
-This GitHub account serves as a **testing and experimentation platform** for building, compiling, and learning about various applications. Nothing here is official or production-ready.
+> 🚨 **This is a testing and experimentation account only. Nothing here is official or production-ready.**
 
-### 🛠️ Activities Performed Here
-- 🔧 **Pre-built application testing**
-- 📦 **Automated build experiments** 
-- 🧩 **Forked repository compilation**
-- 📚 **Educational code exploration**
-- ⚙️ **CI/CD pipeline testing**
+This GitHub account serves as a **sandbox environment** for building, compiling, and learning about various applications through hands-on experimentation.
 
-### 🚫 What This Account Is NOT
-- ❌ **Official releases**
-- ❌ **Production software**
-- ❌ **Supported applications**
-- ❌ **Original development**
-- ❌ **Guaranteed updates**
+### 🎯 What We Do Here
+- 🛠️ **Build experiments** - Testing compilation processes
+- 📦 **Pre-built apps** - Convenience builds for testing
+- 🔄 **Automation tests** - CI/CD pipeline experiments  
+- 📚 **Learning projects** - Educational code exploration
+- ⚙️ **Fork compilation** - Building from public repositories
+
+### 🚫 What We Don't Do
+- ❌ Official releases or supported software
+- ❌ Original application development
+- ❌ Production-ready code
+- ❌ Guaranteed maintenance or updates
 
 ---
 
-## ⚠️ Important Disclaimers
+## ⚠️ Critical Disclaimers
 
-<div align="center">
+<div align="center" style="background: #ff444411; border: 1px solid #ff4444; border-radius: 10px; padding: 20px; margin: 20px 0;">
 
-### 🚨 **EXPERIMENTAL USE ONLY**
+### 🚧 **EXPERIMENTAL USE AT YOUR OWN RISK**
 
 </div>
 
-### Legal & Ownership
-- **No Ownership**: We do not publish, own, or develop any applications listed here
+### 🔒 Legal & Ownership
+- **No Ownership Claim**: We do not own, publish, or develop any applications here
 - **Full Credit**: All intellectual property belongs to original developers
-- **Testing Only**: Everything is for educational and testing purposes
-- **No Support**: We do not provide support for third-party applications
+- **Educational Purpose**: Everything is for learning and testing only
+- **No Support Provided**: We cannot help with third-party application issues
 
-### Risk Awareness
-- 🚧 **Builds may break** at any time
-- 📅 **Updates are not guaranteed**
-- 🔄 **Projects are temporary**
-- ⚠️ **Use at your own risk**
+### 📝 Usage Risks
+- 🔴 **Builds may break unexpectedly**
+- 🔴 **No update guarantees**
+- 🔴 **Temporary project lifespan** 
+- 🔴 **Zero stability warranties**
 
 ---
 
-## 📚 Official Resources
+## 🌐 Official Platforms
 
-For reliable information, guides, and official platforms:
+For reliable information and official resources:
 
-<div align="center">
+<div align="center" style="display: flex; gap: 10px; justify-content: center; flex-wrap: wrap; margin: 25px 0;">
 
-[![Miyomi Platform](https://img.shields.io/badge/🌐_Official_Miyomi_Platform-58a6ff?style=for-the-badge&logo=google-chrome&logoColor=white)](https://miyomi.pages.dev)
-[![Terms of Service](https://img.shields.io/badge/📄_Terms_of_Service-8b949e?style=for-the-badge&logo=scale&logoColor=white)](https://miyomi-tos.netlify.app/)
+[![Main Platform](https://img.shields.io/badge/🌐_miyomi.pages.dev-58A6FF?style=for-the-badge&logo=web&logoColor=white)](https://miyomi.pages.dev)
+[![Terms of Service](https://img.shields.io/badge/📄_Terms_of_Service-8B949E?style=for-the-badge&logo=scale&logoColor=white)](https://miyomi-tos.netlify.app/)
 
 </div>
 
 ---
 
-## 🎬 Tutorials & Guides
+## 🎥 Video Guides & Tutorials
 
 <div align="center">
 
-[![YouTube Tutorials](https://img.shields.io/badge/🎥_YouTube_Tutorials-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@iitachiyomi)
+[![YouTube Channel](https://img.shields.io/badge/🎬_YouTube_Tutorials-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=1a1a1a)](https://www.youtube.com/@iitachiyomi)
 
 </div>
 
-**Our YouTube channel features:**
-- 📱 **Quick setup guides**
-- 🔧 **Build tutorials**
-- 🛠️ **Installation help**
-- 📖 **Educational content**
+**Featured content:**
+- 📱 Application setup guides
+- 🔧 Build process tutorials  
+- 🛠️ Installation assistance
+- 📖 Educational demonstrations
 
 ---
 
-## 📬 Contact & Support
+## 📞 Support Information
 
-### ❌ No Support Provided
-We **do not provide support** for any applications hosted in this account. Always contact the original developers through their official channels.
+### ❌ No Support Available
+We **cannot provide support** for any applications in this account. Please use proper channels:
 
-### ✅ Proper Support Channels
-- 📋 **Original repositories** - Use the source project's issues
-- 💬 **Official communities** - Join developer Discord/Telegram
-- 📚 **Documentation** - Read the original README files
-- 🐛 **Bug reports** - Submit to original maintainers
+### ✅ Correct Support Paths
+- 📋 **Source repositories** - Original project issue trackers
+- 💬 **Official communities** - Developer Discord/Telegram groups
+- 📚 **Project documentation** - Original README and docs
+- 🐛 **Direct to developers** - Contact original maintainers
 
 ---
 
-## 🧠 Why This Account Exists
+## 🎯 Project Categories
 
-### Our Mission
-```javascript
-const mission = {
-  purpose: "Provide convenience builds for learning",
-  focus: "Educational compilation and testing",
-  audience: "Users who cannot build applications themselves",
-  transparency: "Clear disclaimers and proper attribution",
-  learning: "Continuous improvement through experimentation"
-};
+### 🔬 Experimental Builds
