@@ -100,3 +100,28 @@ We **cannot provide support** for any applications in this account. Please use p
 ## 🎯 Project Categories
 
 ### 🔬 Experimental Builds
+
+📱 Pre-compiled APK files
+⚡ Automated build outputs
+🔧 Test application versions
+
+
+### 📚 Learning Projects  
+
+📖 Forked source code
+🎓 Educational modifications
+🧪 Build configuration tests
+
+
+### ⚙️ Automation Tests
+
+🔄 CI/CD experiments
+🤖 Build script testing
+🚀 Deployment automation
+
+
+---
+
+## 🧠 Purpose & Mission
+
+<div align="center" style="background: #58a6ff11; border: 1px solid #58a6ff; border-radius: 10px;
