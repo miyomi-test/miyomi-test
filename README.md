@@ -122,6 +122,15 @@ We **cannot provide support** for any applications in this account. Please use p
 
 ---
 
-## 🧠 Purpose & Mission
+### 🔒 Legal & Ownership
+- **No Ownership Claim**: We do not own, publish, or develop any applications here
+- **Full Credit**: All intellectual property belongs to original developers
+- **Educational Purpose**: Everything is for learning and testing only
+- **No Support Provided**: We cannot help with third-party application issues
 
-<div align="center" style="background: #58a6ff11; border: 1px solid #58a6ff; border-radius: 10px;
+### 📝 Usage Risks
+- 🔴 **Builds may break unexpectedly**
+- 🔴 **No update guarantees**
+- 🔴 **Temporary project lifespan** 
+- 🔴 **Zero stability warranties**
+
