@@ -19,17 +19,17 @@
 This GitHub account serves as a **sandbox environment** for building, compiling, and learning about various applications through hands-on experimentation.
 
 ### 🎯 What We Do Here
-- 🛠️ **Build experiments** - Testing compilation processes
-- 📦 **Pre-built apps** - Convenience builds for testing
-- 🔄 **Automation tests** - CI/CD pipeline experiments  
-- 📚 **Learning projects** - Educational code exploration
-- ⚙️ **Fork compilation** - Building from public repositories
+- 🛠️ **Build experiments** – Learning compilation processes  
+- 📦 **Build scripts & configs only (no binaries shared)**  
+- 🔄 **CI/CD practice** – Automation tests  
+- 📚 **Educational projects** – Forks for studying code  
+- ⚙️ **Testing environments** – Exploring public repositories
 
 ### 🚫 What We Don't Do
-- ❌ Official releases or supported software
-- ❌ Original application development
-- ❌ Production-ready code
-- ❌ Guaranteed maintenance or updates
+- ❌ Official releases or supported software  
+- ❌ Binary distribution or pre-built apps  
+- ❌ Production-ready code  
+- ❌ Guaranteed maintenance or updates  
 
 ---
 
@@ -37,21 +37,20 @@ This GitHub account serves as a **sandbox environment** for building, compiling,
 
 <div align="center" style="background: #ff444411; border: 1px solid #ff4444; border-radius: 10px; padding: 20px; margin: 20px 0;">
 
-### 🚧 **EXPERIMENTAL USE AT YOUR OWN RISK**
-
+### 🚧 **EXPERIMENTAL — FOR LEARNING PURPOSES ONLY**
 </div>
 
 ### 🔒 Legal & Ownership
-- **No Ownership Claim**: We do not own, publish, or develop any applications here
-- **Full Credit**: All intellectual property belongs to original developers
-- **Educational Purpose**: Everything is for learning and testing only
-- **No Support Provided**: We cannot help with third-party application issues
+- **No Ownership Claim**: All software belongs to original developers  
+- **No Distribution**: No binaries or applications are shared here  
+- **Educational Purpose Only**: Purely for learning and experimentation  
+- **No Support Provided**: Please contact original developers for help  
 
-### 📝 Usage Risks
-- 🔴 **Builds may break unexpectedly**
-- 🔴 **No update guarantees**
-- 🔴 **Temporary project lifespan** 
-- 🔴 **Zero stability warranties**
+### 📝 Usage Notes
+- ⚠️ Builds may not work or may break  
+- ⚠️ Projects can be removed anytime  
+- ⚠️ No guarantees for stability  
+- ⚠️ Experimental tests only  
 
 ---
 
@@ -77,63 +76,47 @@ For reliable information and official resources:
 </div>
 
 **Featured content:**
-- 📱 Application setup guides
-- 🔧 Build process tutorials  
-- 🛠️ Installation assistance
-- 📖 Educational demonstrations
+- 📖 Educational explanations  
+- 🔧 Build process demonstrations  
+- 🛠️ Setup & configuration tutorials  
+- 🎓 Learning-focused experiments  
 
 ---
 
 ## 📞 Support Information
 
 ### ❌ No Support Available
-We **cannot provide support** for any applications in this account. Please use proper channels:
+We **cannot provide assistance** for any applications or repositories here.  
 
 ### ✅ Correct Support Paths
-- 📋 **Source repositories** - Original project issue trackers
-- 💬 **Official communities** - Developer Discord/Telegram groups
-- 📚 **Project documentation** - Original README and docs
-- 🐛 **Direct to developers** - Contact original maintainers
+- 📋 Original project issue trackers  
+- 💬 Official developer communities  
+- 📚 Official documentation from source  
+- 🐛 Contact original maintainers  
 
 ---
 
-## 🎯 Project Categories
+## 🧪 Project Categories
 
-### 🔬 Experimental Builds
+### 🔬 Learning / Build Experiments
+🧠 Educational modifications  
+⚙️ Build configuration testing  
+🔄 CI/CD workflow experiments  
 
-📱 Pre-compiled APK files
-⚡ Automated build outputs
-🔧 Test application versions
-
-
-### 📚 Learning Projects  
-
-📖 Forked source code
-🎓 Educational modifications
-🧪 Build configuration tests
-
-
-### ⚙️ Automation Tests
-
-🔄 CI/CD experiments
-🤖 Build script testing
-🚀 Deployment automation
+### 📚 Educational Code Forks  
+🎯 Studying code structure  
+🔍 Investigating build systems  
+🧪 Safe testing environments  
 
 ---
 
-🚧 **EXPERIMENTAL USE AT YOUR OWN RISK**
+🚧 **EXPERIMENTAL — NO DISTRIBUTION — FOR LEARNING ONLY**
+
+### 🔒 Legal & Ownership (Final Reminder)
+- No app distribution  
+- No APK hosting  
+- No ownership claims  
+- 100% educational  
 
 ---
-
-### 🔒 Legal & Ownership
-- **No Ownership Claim**: We do not own, publish, or develop any applications here
-- **Full Credit**: All intellectual property belongs to original developers
-- **Educational Purpose**: Everything is for learning and testing only
-- **No Support Provided**: We cannot help with third-party application issues
-
-### 📝 Usage Risks
-- 🔴 **Builds may break unexpectedly**
-- 🔴 **No update guarantees**
-- 🔴 **Temporary project lifespan** 
-- 🔴 **Zero stability warranties**
 
