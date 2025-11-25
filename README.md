@@ -62,7 +62,7 @@ For reliable information and official resources:
 <div align="center" style="display: flex; gap: 10px; justify-content: center; flex-wrap: wrap; margin: 25px 0;">
 
 [![Main Platform](https://img.shields.io/badge/🌐_miyomi.pages.dev-58A6FF?style=for-the-badge&logo=web&logoColor=white)](https://miyomi.pages.dev)
-[![Terms of Service](https://img.shields.io/badge/📄_Terms_of_Service-8B949E?style=for-the-badge&logo=scale&logoColor=white)](https://miyomi-tos.netlify.app/)
+[![Terms of Service](https://img.shields.io/badge/📄_Terms_of_Service-8B949E?style=for-the-badge&logo=scale&logoColor=white)](https://miyomi-test.github.io/)
 
 </div>
 
